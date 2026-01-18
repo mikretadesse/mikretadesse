@@ -23,7 +23,7 @@ I enjoy turning real-world problems into working software and continuously impro
 - **Evangadi Forum**  
   Q&A platform with authentication, questions, answers, voting, and comments  
   *React • Node.js • Express • MySQL*
-  [Live Demo](https://forum.mikretadesse.com) | [Repository](https://github.com/mikretadesse/evangadi-forum-G3)
+  *[Live Demo](https://forum.mikretadesse.com) | [Repository](https://github.com/mikretadesse/evangadi-forum-G3)*
 
 
 
