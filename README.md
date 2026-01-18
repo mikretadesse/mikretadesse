@@ -8,24 +8,11 @@ I enjoy turning real-world problems into working software and continuously impro
 ---
 
 ## 🛠 Tech Stack
-**Frontend**
-- React
-- HTML5, CSS3
-- JQuary
-- JavaScript (ES6+)
 
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MySQL
-
-**Tools & Practices**
-- Git & GitHub
-- REST APIs
-- JWT Authentication
-- Postman
+**Frontend:** React, HTML5, CSS3, jQuery, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL  
+**Tools & Practices:** Git & GitHub, REST APIs, JWT Authentication, Postman
 
 ---
 
@@ -64,30 +51,6 @@ An e-commerce web application featuring product browsing, cart management, and o
 
 ⭐ Feel free to explore my repositories and follow my work.
 
-
-(Repositories pinned below ⬇️)
-
 ---
 
-## 🌱 Currently Learning
-- Advanced backend architecture
-- API security and optimization
-- Deployment on VPS and cloud platforms
-
----
-
-## 🤝 Open to
-- Collaboration on web projects
-- Junior developer roles / internships
-- Freelance opportunities
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mikretadesse
-- LinkedIn: *(add when ready)*
-
----
-
-⭐ Feel free to explore my repositories and follow my work.
 
