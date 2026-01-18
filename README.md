@@ -9,10 +9,13 @@ I enjoy turning real-world problems into working software and continuously impro
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, HTML5, CSS3, jQuery, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL  
-**Tools & Practices:** Git & GitHub, REST APIs, JWT Authentication, Postman
+- **Frontend:** React, HTML5, CSS3, jQuery, JavaScript (ES6+)  
+
+- **Backend:** Node.js, Express.js  
+
+- **Database:** MySQL  
+
+- **Tools & Practices:** Git & GitHub, REST APIs, JWT Authentication, Postman
 
 ---
 
