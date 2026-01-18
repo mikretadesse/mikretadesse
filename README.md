@@ -23,7 +23,8 @@ I enjoy turning real-world problems into working software and continuously impro
 - **Evangadi Forum**  
   Q&A platform with authentication, questions, answers, voting, and comments  
   *React • Node.js • Express • MySQL*
-  [Live Demo](https://evangadiforum.example.com)
+  [Live Demo](https://forum.mikretadesse.com) | [Repository](https://github.com/mikretadesse/evangadi-forum-G3)
+
 
 
 - **Amazon Clone**  
@@ -59,7 +60,7 @@ An e-commerce web application featuring product browsing, cart management, and o
 ## 📫 Contact
 - GitHub: https://github.com/mikretadesse
 - LinkedIn: https://www.linkedin.com/in/mikre-tadesse-379068294/
-- Website: https://www.forum.mikretadesse.com
+- Website: https://mikretadesse.com
 
 ---
 
