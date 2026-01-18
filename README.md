@@ -29,37 +29,6 @@ I enjoy turning real-world problems into working software and continuously impro
 
 ---
 
-# Hi, I’m Mikre Tadesse 👋
-
-## 👨‍💻 About Me
-I am a full-stack web developer focused on building practical, scalable applications. I work with modern JavaScript frameworks and backend technologies to deliver clean APIs and user-friendly interfaces.
-
-I enjoy turning real-world problems into working software and continuously improving my engineering skills through hands-on projects.
-
----
-
-## 🛠 Tech Stack
-**Frontend**
-- React
-- HTML5, CSS3
-- JavaScript (ES6+)
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MySQL
-- MongoDB
-
-**Tools & Practices**
-- Git & GitHub
-- REST APIs
-- JWT Authentication
-- Postman
-
----
-
 ## 📌 Featured Projects
 - **Evangadi Forum**  
   Q&A platform with authentication, questions, answers, voting, and comments  
