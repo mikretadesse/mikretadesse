@@ -30,7 +30,7 @@ I enjoy turning real-world problems into working software and continuously impro
 - **Amazon Clone**  
 An e-commerce web application featuring product browsing, cart management, and order handling with payment state management implemented using Firebase services.
   *React • Node.js • Express • Firebase*  
-  *([Live Demo](https://amazon-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/amazon-clone))*
+  *([Live Demo](https://amazon-clone.mikretadesse.com) / [Repository](https://github.com/mikretadesse/amazon-clone))*
 
 - **Apple Clone**  
   Responsive product showcase website inspired by Apple’s official design  
