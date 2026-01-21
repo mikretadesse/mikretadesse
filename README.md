@@ -23,24 +23,24 @@ I enjoy turning real-world problems into working software and continuously impro
 - **Evangadi Forum**  
   Q&A platform with authentication, questions, answers, voting, and comments  
   *React • Node.js • Express • MySQL*
-  *[Live Demo](https://forum.mikretadesse.com) | [Repository](https://github.com/mikretadesse/evangadi-forum-G3)*
+  *( [Live Demo](https://forum.mikretadesse.com) | [Repository](https://github.com/mikretadesse/evangadi-forum-G3) )*
 
 
 
 - **Amazon Clone**  
 An e-commerce web application featuring product browsing, cart management, and order handling with payment state management implemented using Firebase services.
   *React • Node.js • Express • Firebase*  
-  *([Live Demo](https://amazon-clone.mikretadesse.com) / [Repository](https://github.com/mikretadesse/amazon-clone))*
+  *( [Live Demo](https://amazon-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/amazon-clone) )*
 
 - **Apple Clone**  
   Responsive product showcase website inspired by Apple’s official design  
   *React • Bootstrap • HTML • CSS*  
-   *[Live Demo](https://apple-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/apple-clone)*
+   *( [Live Demo](https://apple-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/apple-clone) )*
 
 - **Netflix Clone**  
   Movie streaming UI with dynamic content rendering and responsive layout  
   *React • API Integration* 
-   *[Live Demo](https://netflix-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/netflix-clone)*
+   *( [Live Demo](https://netflix-clone.mikretadesse.com) | [Repository](https://github.com/mikretadesse/netflix-clone) )*
   
 (Repositories pinned below ⬇️)
 
