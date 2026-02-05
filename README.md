@@ -62,7 +62,7 @@ An e-commerce web application featuring product browsing, cart management, and o
 
 ## 📫 Contact
 - GitHub: https://github.com/mikretadesse
-- LinkedIn: https://www.linkedin.com/in/mikre-tadesse-379068294/
+- LinkedIn: https://www.linkedin.com/in/mikretadesse/
 - Website: https://mikretadesse.com
 
 ---
