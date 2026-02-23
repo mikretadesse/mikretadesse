@@ -46,10 +46,28 @@ An e-commerce web application featuring product browsing, cart management, and o
 
 ---
 
+## 🎓 Education & Training
+
+**Bachelor’s Degrees (2017–2022)**  
+- **B.Sc. Construction Technology and Management (COTM)** – Debre Birhan University  
+- **B.A. Economics** – Debre Birhan University  
+
+**Professional Training (2025)**  
+- Full Stack Application Development – Evangadi INC  
+
+---
+
+## 🎖️ Certificates
+
+- [Full Stack Application Development – Evangadi INC](https://www.evangadi.com/academy/my-certificates/57602df8827caa3e)
+
+---
+
 ## 🌱 Currently Learning
-- Advanced backend architecture
-- API security and optimization
-- Deployment on VPS and cloud platforms
+- Advanced backend architecture  
+- API security and optimization  
+- VPS & cloud deployment  
+- Continuous learning strategies  
 
 ---
 
