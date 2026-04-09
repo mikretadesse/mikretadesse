@@ -9,7 +9,7 @@ I enjoy turning real-world problems into working software and continuously impro
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, HTML5, CSS3, jQuery, JavaScript (ES6+)  
+- **Frontend:** React ,Bootstrap, jQuery, JavaScript (ES6+)  
 
 - **Backend:** Node.js, Express.js  
 
@@ -64,9 +64,9 @@ An e-commerce web application featuring product browsing, cart management, and o
 ---
 
 ## 🌱 Currently Learning
+- AWS & cloud deployment  
 - Advanced backend architecture  
 - API security and optimization  
-- VPS & cloud deployment  
 - Continuous learning strategies  
 
 ---
